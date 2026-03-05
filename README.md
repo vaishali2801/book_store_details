@@ -103,11 +103,11 @@ Update Book
 Delete Book
 
 <img width="1280" height="832" alt="delete book" src="https://github.com/user-attachments/assets/b901cd68-9718-4751-89a0-8db521322358" />
-```
+
 📡 API Endpoints
 
 Base URL
-
+```
 http://localhost:5001
 📖 Books API
 1️⃣ Get All Books
@@ -215,4 +215,3 @@ Open Pull Request
 📄 License
 
 This project is licensed under the MIT License.
-```
