@@ -1,3 +1,4 @@
+```
 📚 Bookstore Management API
 
 A RESTful API for managing a bookstore built using Node.js, Express.js, MongoDB, and Mongoose.
@@ -23,7 +24,6 @@ MongoDB	Database
 Mongoose	ODM for MongoDB
 Nodemon	Development auto restart
 
-📁 Project Structure
 bookstore-management/
 │
 ├── app.js
@@ -44,9 +44,8 @@ bookstore-management/
 │
 └── controllers/
     └── bookController.js
-    
-Explanation
-
+```
+```
 app.js → Main entry point of the application
 
 db/db.js → MongoDB database connection
@@ -82,7 +81,7 @@ Server will run at:
 
 http://localhost:5001
 📸 API Testing 
-
+```
 Create Book API
 
 <img width="1280" height="832" alt="create" src="https://github.com/user-attachments/assets/659f35d5-27d6-4626-ada9-59fbc10cc895" />
@@ -104,7 +103,7 @@ Update Book
 Delete Book
 
 <img width="1280" height="832" alt="delete book" src="https://github.com/user-attachments/assets/b901cd68-9718-4751-89a0-8db521322358" />
-
+```
 📡 API Endpoints
 
 Base URL
@@ -216,3 +215,4 @@ Open Pull Request
 📄 License
 
 This project is licensed under the MIT License.
+```
